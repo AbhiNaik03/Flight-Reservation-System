@@ -1,6 +1,6 @@
 package com.company.frs;
 
-public class Ticket {
+public abstract class Ticket {
     private int prn;
     private String from;
     private String to;
